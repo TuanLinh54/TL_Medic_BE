@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "tl_medic",
-    "host": "127.0.0.1",
+    "username": "uffm5szhzayzsjex",
+    "password": "WkljgGxilYJE1sqy7Mz5",
+    "database": "bxlb2ht7idtiz0rdfkyi",
+    "host": "bxlb2ht7idtiz0rdfkyi-mysql.services.clever-cloud.com",
     "dialect": "mysql",
     "logging": false,
     "query": {
@@ -12,17 +12,17 @@
     "timezone": "+07:00"
   },
   "test": {
-    "username": "root",
-    "password": null,
+    "username": "uffm5szhzayzsjex",
+    "password": "WkljgGxilYJE1sqy7Mz5",
     "database": "database_test",
-    "host": "127.0.0.1",
+    "host": "bxlb2ht7idtiz0rdfkyi-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
+    "username": "uffm5szhzayzsjex",
+    "password": "WkljgGxilYJE1sqy7Mz5",
     "database": "database_production",
-    "host": "127.0.0.1",
+    "host": "bxlb2ht7idtiz0rdfkyi-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   }
 }
